@@ -14,7 +14,6 @@ Give it enough time to run; it can help track the associated address of suspicio
 
 By clicking on a node in the graph, the application will automatically load that address and it's associated transactions, adding it to the graph. By hovering over a node in the graph, the tool-tip on the right will appear. It displays a number of useful statistics about the address, and gives the user the option to trace transactions by clicking on any of the colourful buttons.
 
-* [Try online](https://consto.uk/blockchain-tracer)
 * [Read the report](/report.pdf)
 
 # Contributing
